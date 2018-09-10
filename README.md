@@ -180,9 +180,9 @@ var DEFAULT_STRUCTURE = STRUCTURE_LIST;
 
 ## MRP_ExportCSV:
 **ExportCSV by Michael Derazon
- - *** script to export data in all sheets in the current spreadsheet as individual csv files
- - *** files will be named according to the name of the sheet
- - *** author: Michael Derazon https://gist.github.com/mderazon/9655893
+ *** script to export data in all sheets in the current spreadsheet as individual csv files
+ *** files will be named according to the name of the sheet
+ *** author: Michael Derazon https://gist.github.com/mderazon/9655893
  
  - **saveAsCSV**
  - **testMoveFolder**
