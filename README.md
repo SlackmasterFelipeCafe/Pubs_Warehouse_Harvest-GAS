@@ -178,7 +178,7 @@ var DEFAULT_STRUCTURE = STRUCTURE_LIST;
 - **normalizeHeaders_**
 - **isCellEmpty_**
 
-## MRP_ExportCSV:
+## MRP_Pubs-ExportCSV:
 ### ExportCSV by Michael Derazon
  #### - Script to export data in all sheets in the current spreadsheet as individual csv files
  #### - Files will be named according to the name of the sheet
@@ -189,3 +189,7 @@ var DEFAULT_STRUCTURE = STRUCTURE_LIST;
  - **moveFolderToFolder**
  - **convertRangeToCsvFile_**
  
+## MRP_Pubs-OnOpen:
+functions that are run when the Google sheet is opened
+- **OnOpen**, Function that builds menu items for the worksheet
+
