@@ -5,8 +5,6 @@ US Geological Survey (USGS)
 
 Geology, Geophysics, and Geochemistry Science Center (GGGSC)
 
-Data Managment Team (gs_gggsc_dm_team@usgs.gov)
-
 Google Application Scripts (GAS)
 
 Contact Phil Brown (pbrown@usgs.gov)
