@@ -40,7 +40,7 @@ Google sheet functions that sets up queries of the Science Data Catalog for a li
 
 ## MRP_Pubs-ImportJSON:
 
- **ImportJSON by Trevor Lohrbeer (@FastFedora)
+ ### ImportJSON by Trevor Lohrbeer (@FastFedora)
 
   Version:      1.1
   Project Page: http://blog.fastfedora.com/projects/import-json
@@ -179,10 +179,10 @@ var DEFAULT_STRUCTURE = STRUCTURE_LIST;
 - **isCellEmpty_**
 
 ## MRP_ExportCSV:
-**ExportCSV by Michael Derazon
- #### script to export data in all sheets in the current spreadsheet as individual csv files
- ####  files will be named according to the name of the sheet
- ####  author: Michael Derazon https://gist.github.com/mderazon/9655893
+### ExportCSV by Michael Derazon
+ #### - Script to export data in all sheets in the current spreadsheet as individual csv files
+ #### - Files will be named according to the name of the sheet
+ #### - Author: Michael Derazon https://gist.github.com/mderazon/9655893
  
  - **saveAsCSV**
  - **testMoveFolder**
