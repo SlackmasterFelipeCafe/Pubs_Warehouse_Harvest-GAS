@@ -1,4 +1,4 @@
-# Pubs_Warehouse_Harvest-GAS-GAS
+# Pubs_Warehouse_Harvest-GAS
 GGGSC SDC HarvestGAS - Google Application Scripts being used by the GGGSC for tracking harvesting new pubblication records for various science centers daily.  These records can then be used to track science center publications and how they are tagged in the USGS CMS
 
 US Geological Survey (USGS)
