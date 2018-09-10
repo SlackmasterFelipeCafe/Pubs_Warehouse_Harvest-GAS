@@ -125,4 +125,18 @@ Google sheet functions that sets up queries of the Science Data Catalog for a li
  
   @return a two-dimensional array containing the data, with the first row containing headers
  **/
-
+ - **readRows**
+ - **onOpen**, Function that adds Import JSON menu
+ - **ImportJSON**
+ - **ImportJSONAdvanced**
+ - **parseJSONObject_**
+ - **parseData_**
+ - **parseHeaders_**
+ - **transformData_**
+ - **parseHeaders_**
+ - **isObject_**
+ - **isObjectArray_**
+ - **includeXPath_**
+ - **defaultTransform_**
+ - **removeCommonPrefixes_**
+ - **toTitleCase_**
