@@ -190,6 +190,6 @@ var DEFAULT_STRUCTURE = STRUCTURE_LIST;
  - **convertRangeToCsvFile_**
  
 ## MRP_Pubs-OnOpen:
-functions that are run when the Google sheet is opened
+Google sheet functions that are run when the Google sheet is opened
 - **OnOpen**, Function that builds menu items for the worksheet
 
