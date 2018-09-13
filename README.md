@@ -1,5 +1,5 @@
 # Pubs Warehouse Harvest GAS
-GGGSC SDC HarvestGAS - Google Application Scripts being used by the GGGSC for tracking harvesting new pubblication records for various science centers daily.  These records can then be used to track science center publications and how they are tagged in the USGS CMS
+MRP MrPOP SDC HarvestGAS - Google Application Scripts being used by MrPOP (Mineral Resource Program Outreach Program) for tracking and harvesting new pubblication records for various science centers daily.  These records can then be used to track science center publications and how they are tagged in the USGS CMS
 
 US Geological Survey (USGS)
 
@@ -192,4 +192,7 @@ var DEFAULT_STRUCTURE = STRUCTURE_LIST;
 ## MRP_Pubs-OnOpen:
 Google sheet functions that are run when the Google sheet is opened
 - **OnOpen**, Function that builds menu items for the worksheet
+
+## MRP_Pubs-EmailFunctions:
+Google sheet functions that handle email related tasks.
 
