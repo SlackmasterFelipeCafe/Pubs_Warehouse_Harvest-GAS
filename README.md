@@ -195,4 +195,4 @@ Google sheet functions that are run when the Google sheet is opened
 
 ## MRP_Pubs-EmailFunctions:
 Google sheet functions that handle email related tasks.
-
+ - **SendReminderEmail**; function that sends a monthly reminder email to MrPOP personel to check and tag their Science Center Pubs
